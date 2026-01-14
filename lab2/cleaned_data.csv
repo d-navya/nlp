@@ -1,0 +1,101 @@
+,review_text,sentiment,text_length,word_count,text_lower,label_encoded
+1,"oooh, sunshine! A patch of sunshine! And it will be gone by the time I leave work and replaced with rain.  /vent",neutral,112,22,"oooh, sunshine! a patch of sunshine! and it will be gone by the time i leave work and replaced with rain.  /vent",0
+2,skype call with billie but my webcam dont work,neutral,46,9,skype call with billie but my webcam dont work,0
+3,"Just had a great study time followed by a delicious Japanese meal with Arty! Now, trying to get back into the study mood",neutral,120,23,"just had a great study time followed by a delicious japanese meal with arty! now, trying to get back into the study mood",1
+4,FML not having a car is prohibiting finding a job,negative,49,10,fml not having a car is prohibiting finding a job,-1
+5,"  lol since I got twitter a little while ago, it seems like loads of people setting up an account",neutral,97,19,"  lol since i got twitter a little while ago, it seems like loads of people setting up an account",0
+6, I want to see David cook!!,neutral,27,6, i want to see david cook!!,1
+7, yeh me 2,neutral,9,3, yeh me 2,0
+8, learning tat the scenic way  din plan to go town but somehow was herded there?,neutral,79,15, learning tat the scenic way  din plan to go town but somehow was herded there?,0
+9," i don`t want to do anything specific, i just want to see you and puppy!",neutral,72,15," i don`t want to do anything specific, i just want to see you and puppy!",0
+10, yeah i need his fricken cell number ive tried his home for months and hes too busy. i miss braddddddddd,negative,104,20, yeah i need his fricken cell number ive tried his home for months and hes too busy. i miss braddddddddd,-1
+11,Toy Story 3 trailer premiered with Up. I need my computer back.,neutral,63,12,toy story 3 trailer premiered with up. i need my computer back.,0
+12,ughh on the phone with HP!,neutral,26,6,ughh on the phone with hp!,0
+13,And- hand made by Dan & Jenn -sock blockers ... made from exotic woods ... one of which is called 'purple heart',neutral,112,22,and- hand made by dan & jenn -sock blockers ... made from exotic woods ... one of which is called 'purple heart',0
+14, yay about breaking 200!,neutral,24,4, yay about breaking 200!,1
+15, bahah sadly I am not,negative,21,5, bahah sadly i am not,-1
+16, i always have those for my Champions League parties  Tis awesome,positive,65,11, i always have those for my champions league parties  tis awesome,1
+17," well, not all. just stay away from those kinds and surround yourself with those who don`t. happy mother`s day to ur mom, treiz!",positive,128,23," well, not all. just stay away from those kinds and surround yourself with those who don`t. happy mother`s day to ur mom, treiz!",1
+18,_Adel they didn`t reply yet.. wait till they confirm.. in case somebody might have translated it already..,neutral,106,17,_adel they didn`t reply yet.. wait till they confirm.. in case somebody might have translated it already..,0
+19, thats rough. hubby had knee surgery but it did help him in the end. Let us know the results. We`ll keep him in our prayers,negative,123,25, thats rough. hubby had knee surgery but it did help him in the end. let us know the results. we`ll keep him in our prayers,-1
+20,might have to go back much earlier than expected. bye bye bay area,neutral,66,13,might have to go back much earlier than expected. bye bye bay area,0
+21,"Playin City of Villains, wishin my buddies were playin with me.....",positive,67,11,"playin city of villains, wishin my buddies were playin with me.....",1
+22," yep - three things: a good haircut, the ability to listen and the value of not taking yourself too seriously",positive,109,20," yep - three things: a good haircut, the ability to listen and the value of not taking yourself too seriously",1
+23, riley hacked my twitter!  hahaha :],neutral,36,6, riley hacked my twitter!  hahaha :],0
+24,Big Sad Face   Bing doesn`t work on iPhone.  It just takes you to the regular mobile Live search.,neutral,97,18,big sad face   bing doesn`t work on iphone.  it just takes you to the regular mobile live search.,0
+25, I liked it.  Did you record it yourself?  If so you have a very soothing voice.,positive,80,16, i liked it.  did you record it yourself?  if so you have a very soothing voice.,1
+26,man im so sad school is ending  but then again high school might be better :O,neutral,77,16,man im so sad school is ending  but then again high school might be better :o,0
+27," Folks thought it was hilarious when I told them the story, and then they saw the shirt I wore tonight.  Laughter all night.",positive,124,23," folks thought it was hilarious when i told them the story, and then they saw the shirt i wore tonight.  laughter all night.",1
+28, you`re the absoute best,positive,24,4, you`re the absoute best,1
+29,oh my god!!! i cried so much!!! watch this guys from BGT  http://bit.ly/5t5Xz,neutral,77,13,oh my god!!! i cried so much!!! watch this guys from bgt  http://bit.ly/5t5xz,0
+30,My near daily exercise is starting to show results.,neutral,51,9,my near daily exercise is starting to show results.,0
+31, Welcome!,positive,9,1, welcome!,1
+32,Bout to hit pmark then make one of my final meals wit the housemates..,neutral,70,14,bout to hit pmark then make one of my final meals wit the housemates..,0
+33,: you get to go home and i have to go to work,neutral,45,13,: you get to go home and i have to go to work,0
+34,voted for  on CMT.com,neutral,21,4,voted for  on cmt.com,0
+35,"just got home from a nice party, just not tired yet",positive,51,11,"just got home from a nice party, just not tired yet",1
+36,Now I have a sunburn,negative,20,5,now i have a sunburn,-1
+37,I have the Job  this is a nice day it can not be better,positive,55,14,i have the job  this is a nice day it can not be better,1
+38,I wish I could go to #BEA this weekend.,positive,39,9,i wish i could go to #bea this weekend.,1
+39,"I <3 Rupert Grint......& of the boy, Ive accepted tht I do fancy him  But im certain he doesnt feel the same so its not worth telling him",neutral,137,28,"i <3 rupert grint......& of the boy, ive accepted tht i do fancy him  but im certain he doesnt feel the same so its not worth telling him",0
+40, love your books,positive,16,3, love your books,1
+41,ok so this eye doctor guy is taking forever and i`m sitting in a cold room by myself...what? A jerk!,negative,100,20,ok so this eye doctor guy is taking forever and i`m sitting in a cold room by myself...what? a jerk!,-1
+42,Im Slowing on My Tweets..Cuase I Lost My Phone,negative,46,9,im slowing on my tweets..cuase i lost my phone,-1
+43, well thank your phone for me.,positive,30,6, well thank your phone for me.,1
+44, why would they take a photo with stuffed animals?! that`s pretty funny,positive,71,12, why would they take a photo with stuffed animals?! that`s pretty funny,1
+45,TweetDeck is acting really strange! Hum........ reinstall maybe. Update on the horizon? Or is it just another Adobe memory leak,neutral,127,20,tweetdeck is acting really strange! hum........ reinstall maybe. update on the horizon? or is it just another adobe memory leak,0
+46,tikcets are only Ã¯Â¿Â½91...each...BUT I SO WANT TO GO,positive,54,9,tikcets are only ã¯â¿â½91...each...but i so want to go,1
+47, Happy Mothers Day,positive,18,3, happy mothers day,1
+48, It`s gonna be hot here today too. today is Ryan`s last day of pre-k. I can`t believe it!  I`ve been a SAHM since I had him!,negative,124,26, it`s gonna be hot here today too. today is ryan`s last day of pre-k. i can`t believe it!  i`ve been a sahm since i had him!,-1
+49,is dreaming of the weekend... awake!,neutral,36,6,is dreaming of the weekend... awake!,0
+50,"Oh, **** me. I`ve just returned from the Supermarket Of Doom to find that I have nothing to drink here.",negative,103,20,"oh, **** me. i`ve just returned from the supermarket of doom to find that i have nothing to drink here.",-1
+51, yay but you missed naptime,neutral,27,5, yay but you missed naptime,0
+52,"D-group Saturday`s, with a little bit of football, an hour nap, 3 hours of soccer, basketball in the TSU and Yogurtland... Life`s Good",positive,134,23,"d-group saturday`s, with a little bit of football, an hour nap, 3 hours of soccer, basketball in the tsu and yogurtland... life`s good",1
+53,just set up a new computer again. 15min. I love Norton Ghost.,positive,61,12,just set up a new computer again. 15min. i love norton ghost.,1
+54,Ahhh my mommie got me new sheets for my bed  so comfy,positive,53,12,ahhh my mommie got me new sheets for my bed  so comfy,1
+55,_celeste  finally some sleep in silence,neutral,39,6,_celeste  finally some sleep in silence,0
+56,im just up :-| and its 12:43 :O  im so lazy thank god its a bank holiday,neutral,72,17,im just up :-| and its 12:43 :o  im so lazy thank god its a bank holiday,0
+57,is pretty dang tired. but chambers class is for napping.,negative,56,10,is pretty dang tired. but chambers class is for napping.,-1
+58,i have to poop...   is hogging the shitter,negative,42,8,i have to poop...   is hogging the shitter,-1
+59,YES! Im down to 50% full on my dvr  i was at 98% like 3 days ago... lol I swear if I didnt have a dvr I would never watch tv,neutral,124,31,yes! im down to 50% full on my dvr  i was at 98% like 3 days ago... lol i swear if i didnt have a dvr i would never watch tv,0
+60,Happy muthath`s day to all moms!!! I salute you!,positive,48,9,happy muthath`s day to all moms!!! i salute you!,1
+61,Hahaha! Alright  ..,positive,19,3,hahaha! alright  ..,1
+62, Aren`t you suppossed to support the local economy ... LOL ... good for you and congrats,positive,88,16, aren`t you suppossed to support the local economy ... lol ... good for you and congrats,1
+63, good to know   thanks,positive,22,4, good to know   thanks,1
+64, what are you? flavor of the day?,neutral,33,7, what are you? flavor of the day?,0
+65,weathers let me down this morning...ugh!...hada gd nite tho!,neutral,60,9,weathers let me down this morning...ugh!...hada gd nite tho!,0
+66,Just listened to condre scr and got an invitation to watch their live concert on June 20th in Munich http://bit.ly/DAXA0  #postrock,neutral,131,21,just listened to condre scr and got an invitation to watch their live concert on june 20th in munich http://bit.ly/daxa0  #postrock,0
+67," E.L.O.  wow, brings back so many happy memories.  LOVE this band!..and yes, I know I`m showing my age but I don`t care",positive,119,22," e.l.o.  wow, brings back so many happy memories.  love this band!..and yes, i know i`m showing my age but i don`t care",1
+68, that`s a very cute picture ... but you don`t get fat from licking BBQs ... he must have found some chops on someone else`s ...,positive,127,25, that`s a very cute picture ... but you don`t get fat from licking bbqs ... he must have found some chops on someone else`s ...,1
+69, oh i love sunday mornings like this - mum just made scrambled eggs on toast,positive,76,15, oh i love sunday mornings like this - mum just made scrambled eggs on toast,1
+70,"hate working when its sunny,boohoo",negative,34,5,"hate working when its sunny,boohoo",-1
+71,is ONLiNE  http://plurk.com/p/stjdg,neutral,35,3,is online  http://plurk.com/p/stjdg,0
+72,bundy. in 3 days.!!!! warm weather here i come!,neutral,47,9,bundy. in 3 days.!!!! warm weather here i come!,0
+73,Wondering if i cld make things any worse than they already are... answer.. JUST DID!!!,negative,86,15,wondering if i cld make things any worse than they already are... answer.. just did!!!,-1
+74,a Dutch marketing agency is asking job applicants to apply in 140 characters or less  http://www.energize.nl/twillicitatie/,neutral,123,16,a dutch marketing agency is asking job applicants to apply in 140 characters or less  http://www.energize.nl/twillicitatie/,0
+75,Twitter has spoiled all the fun. Frustratingly slow!!  couldnt even bid properly!,negative,81,12,twitter has spoiled all the fun. frustratingly slow!!  couldnt even bid properly!,-1
+76,_chick haha. I completely agree,positive,31,5,_chick haha. i completely agree,1
+77,"If we don`t pack, she can`t leave, right?",neutral,41,8,"if we don`t pack, she can`t leave, right?",0
+78, ****  lol....where u headed to?,neutral,32,5, ****  lol....where u headed to?,0
+79,Going to bed after a great night with a friend  glad to know she has the same feelings about classes as someone else,positive,116,23,going to bed after a great night with a friend  glad to know she has the same feelings about classes as someone else,1
+80," many! mine included. ahem. shld have known better back then, wldn`t have missed so many opportunities haha",negative,107,17," many! mine included. ahem. shld have known better back then, wldn`t have missed so many opportunities haha",-1
+81,it`s nice to leave the office when the sun is still up,positive,54,12,it`s nice to leave the office when the sun is still up,1
+82,I will miss the soccer moms,negative,27,6,i will miss the soccer moms,-1
+83," between the Garlic Pills, the Spider bite between your toe (LOL-Classic) and you always being hungry. U are killing me 2 funny",neutral,127,22," between the garlic pills, the spider bite between your toe (lol-classic) and you always being hungry. u are killing me 2 funny",0
+84, *sighs* Ah well.  Maybe my second email will clear it up and get him approved.,neutral,79,15, *sighs* ah well.  maybe my second email will clear it up and get him approved.,0
+85,"  Missed all your tweets again Joe, **** that time difference!!! (UK) Dont 4get about your fave supporters in the UK!!!  ****",neutral,125,21,"  missed all your tweets again joe, **** that time difference!!! (uk) dont 4get about your fave supporters in the uk!!!  ****",0
+86, --that came to my mind. So I said it. And it has now been adapted into my family`s vocabulary,neutral,94,19, --that came to my mind. so i said it. and it has now been adapted into my family`s vocabulary,0
+87,looking forward to body works today,neutral,35,6,looking forward to body works today,0
+88,just watched yes man. bahaha. that movie is messed up,negative,53,10,just watched yes man. bahaha. that movie is messed up,-1
+89, Sadly I think I know exactly were you put it--in the expired drawer   Those things have a life span of less than two years,negative,123,24, sadly i think i know exactly were you put it--in the expired drawer   those things have a life span of less than two years,-1
+90," Too much? No, not unless one of the pillows ends up suffocating the one sleeping next to you.",negative,94,18," too much? no, not unless one of the pillows ends up suffocating the one sleeping next to you.",-1
+91,Meeting my best friend first thing in the morning to the gym! Omg I am still so shocked. I hope you will get better soon,neutral,120,25,meeting my best friend first thing in the morning to the gym! omg i am still so shocked. i hope you will get better soon,0
+92,Wow that was fast...next up Soderling or Ferrer. Gilles Simon lost,negative,66,11,wow that was fast...next up soderling or ferrer. gilles simon lost,-1
+93, Yup theory is GREAT but the reality is beyond imagination...  I also made the same planning not knowing VS will FAIL on me,neutral,123,23, yup theory is great but the reality is beyond imagination...  i also made the same planning not knowing vs will fail on me,0
+94, glad to know that the ad display problem was due to a firewall config at yr office. phew!,positive,90,18, glad to know that the ad display problem was due to a firewall config at yr office. phew!,1
+95, woot!,positive,6,1, woot!,1
+96,"'I don`t like Monday, i wish it were sunday, cause that`s my fun day.'  that was my freaking jam when i was little.   i miss it.",neutral,128,26,"'i don`t like monday, i wish it were sunday, cause that`s my fun day.'  that was my freaking jam when i was little.   i miss it.",0
+97, ???    ?????? - http://bit.ly/nAcK2,neutral,36,4, ???    ?????? - http://bit.ly/nack2,0
+98,"Waiting for the last movie to finish then am test screening Ghost of Girlfriends Past, glass of wine and lolly bag in hand, yay!",neutral,128,24,"waiting for the last movie to finish then am test screening ghost of girlfriends past, glass of wine and lolly bag in hand, yay!",0
+99,Happy #StarWarsDay. May the 4th be with you!  From everyone _paintball,positive,70,11,happy #starwarsday. may the 4th be with you!  from everyone _paintball,1
+100,Must head back to the office,neutral,28,6,must head back to the office,0
